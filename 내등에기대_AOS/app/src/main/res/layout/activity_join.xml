@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context="com.ghsoft.android.lighthouse.JoinActivity">
+
+    <ScrollView
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="top"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="51dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:text="서약내용"
+                    android:textColor="#333333"
+                    android:textSize="18dp"
+                    app:fontName="custom3" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#f5f5f5"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="20dp"
+                    android:background="#ffffff">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.1"
+                        android:paddingBottom="24dp"
+                        android:paddingLeft="19dp"
+                        android:paddingRight="19dp"
+                        android:paddingTop="24dp"
+                        android:text="@string/vow"
+                        android:textColor="#8a8a8a"
+                        android:textSize="15dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="21dp"
+                    android:text="다음의 약속을 꼭 지켜주세요."
+                    android:textColor="#f12b2b"
+                    android:textSize="15dp" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="32dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.1"
+                        android:text="@string/vow5"
+                        android:textColor="#8a8a8a"
+                        android:textSize="14dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="13dp"
+                    android:background="#bababa" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginTop="12dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ToggleButton
+                        android:id="@+id/bot_btn1"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:background="@drawable/m"
+                        android:stateListAnimator="@null"
+                        android:textOff=""
+                        android:textOn="" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="7dp"
+                        android:text="동의합니다."
+                        android:textColor="#131215"
+                        android:textSize="15dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="32dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.1"
+                        android:text="@string/vow2"
+                        android:textColor="#8a8a8a"
+                        android:textSize="14dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="13dp"
+                    android:background="#bababa" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginTop="12dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ToggleButton
+                        android:id="@+id/bot_btn2"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:background="@drawable/m"
+                        android:stateListAnimator="@null"
+                        android:textOff=""
+                        android:textOn="" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="7dp"
+                        android:text="동의합니다."
+                        android:textColor="#131215"
+                        android:textSize="15dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="32dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.1"
+                        android:text="@string/vow3"
+                        android:textColor="#8a8a8a"
+                        android:textSize="14dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="13dp"
+                    android:background="#bababa" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginTop="12dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ToggleButton
+                        android:id="@+id/bot_btn3"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:background="@drawable/m"
+                        android:stateListAnimator="@null"
+                        android:textOff=""
+                        android:textOn="" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="7dp"
+                        android:text="동의합니다."
+                        android:textColor="#131215"
+                        android:textSize="15dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="32dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.1"
+                        android:text="@string/vow4"
+                        android:textColor="#8a8a8a"
+                        android:textSize="14dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="13dp"
+                    android:background="#bababa" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginBottom="41dp"
+                    android:layout_marginTop="12dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ToggleButton
+                        android:id="@+id/bot_btn4"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:background="@drawable/m"
+                        android:stateListAnimator="@null"
+                        android:textOff=""
+                        android:textOn="" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="7dp"
+                        android:text="동의합니다."
+                        android:textColor="#131215"
+                        android:textSize="15dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="47dp">
+
+                <Button
+                    android:id="@+id/okokok"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#5f5f5f"
+                    android:text="완료"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="51dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/back"
+                    android:layout_width="34dp"
+                    android:layout_height="25dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/prev" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="3dp"
+                    android:text="내 등에 기대"
+                    android:textColor="#333333"
+                    android:textSize="18dp"
+                    app:fontName="custom3" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="@drawable/shadow" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="52dp"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="3dp"
+                        android:text="환영합니다:)"
+                        android:textColor="#131215"
+                        android:textSize="20dp"
+                        android:textStyle="bold"
+                        app:fontName="custom4" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="우리들의 공감 이야기"
+                        android:textColor="#626262"
+                        android:textSize="12dp"
+                        app:fontName="custom4" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="53dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="323dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="아이디"
+                                android:textColor="#131215"
+                                android:textSize="12dp"
+                                android:textStyle="bold"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="7dp"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="center_horizontal"
+                            android:orientation="horizontal">
+
+                            <EditText
+                                android:id="@+id/id_edit"
+                                android:layout_width="249dp"
+                                android:layout_height="41dp"
+                                android:layout_gravity="center_horizontal"
+                                android:background="@drawable/border_join"
+                                android:hint="영문 4자 이상 ~ 15자 이하"
+                                android:paddingLeft="11dp"
+                                android:paddingRight="11dp"
+                                android:textColor="#3d3a42"
+                                android:textColorHint="#bbbbbb"
+                                android:textSize="13dp"
+                                app:fontName="custom4" />
+
+                            <Button
+                                android:id="@+id/id_over"
+                                android:layout_width="74dp"
+                                android:layout_height="41dp"
+                                android:background="@drawable/border_join_right"
+                                android:stateListAnimator="@null"
+                                android:text="중복확인"
+                                android:textColor="#bbbbbb"
+                                android:textSize="12dp"
+                                app:fontName="custom4" />
+
+                            <Button
+                                android:id="@+id/id_over_ok"
+                                android:layout_width="74dp"
+                                android:layout_height="41dp"
+                                android:background="#ffb445"
+                                android:stateListAnimator="@null"
+                                android:text="중복확인"
+                                android:textColor="#ffffff"
+                                android:textSize="12dp"
+                                android:visibility="gone"
+                                app:fontName="custom4" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="17dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="323dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="닉네임"
+                                android:textColor="#131215"
+                                android:textSize="12dp"
+                                android:textStyle="bold"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="7dp"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="center_horizontal"
+                            android:orientation="horizontal">
+
+                            <EditText
+                                android:id="@+id/nick_edit"
+                                android:layout_width="249dp"
+                                android:layout_height="41dp"
+                                android:layout_gravity="center_horizontal"
+                                android:background="@drawable/border_join"
+                                android:hint="2자 이상 ~ 10자 이하"
+                                android:paddingLeft="11dp"
+                                android:maxLength="10"
+                                android:paddingRight="11dp"
+                                android:textColor="#3d3a42"
+                                android:textColorHint="#bbbbbb"
+                                android:textSize="13dp"
+                                app:fontName="custom4" />
+
+                            <Button
+                                android:id="@+id/nick_over"
+                                android:layout_width="74dp"
+                                android:layout_height="41dp"
+                                android:background="@drawable/border_join_right"
+                                android:stateListAnimator="@null"
+                                android:text="중복확인"
+                                android:textColor="#bbbbbb"
+                                android:textSize="12dp"
+                                app:fontName="custom4" />
+
+                            <Button
+                                android:id="@+id/nick_over_ok"
+                                android:layout_width="74dp"
+                                android:layout_height="41dp"
+                                android:background="#ffb445"
+                                android:stateListAnimator="@null"
+                                android:text="중복확인"
+                                android:textColor="#ffffff"
+                                android:textSize="12dp"
+                                android:visibility="gone"
+                                app:fontName="custom4" />
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="17dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="323dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="비밀번호"
+                                android:textColor="#131215"
+                                android:textSize="12dp"
+                                android:textStyle="bold"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="7dp"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical">
+
+                            <EditText
+                                android:id="@+id/pass"
+                                android:layout_width="323dp"
+                                android:layout_height="41dp"
+                                android:layout_gravity="center_horizontal"
+                                android:background="@drawable/border_non"
+                                android:hint="4자 이상"
+                                android:inputType="textPassword"
+                                android:paddingLeft="11dp"
+                                android:textColor="#3d3a42"
+                                android:textColorHint="#bbbbbb"
+                                android:textSize="13dp"
+                                app:fontName="custom4" />
+
+                            <EditText
+                                android:id="@+id/pass_ok"
+                                android:layout_width="323dp"
+                                android:layout_height="41dp"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="6dp"
+                                android:background="@drawable/border_non"
+                                android:hint="비밀번호 확인"
+                                android:inputType="textPassword"
+                                android:paddingLeft="11dp"
+                                android:textColor="#3d3a42"
+                                android:textColorHint="#bbbbbb"
+                                android:textSize="13dp"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="323dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginTop="9dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/pass_text"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textColor="#f8ad3e"
+                                android:textSize="12dp"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="17dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="323dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="성별"
+                                android:textColor="#131215"
+                                android:textSize="12dp"
+                                android:textStyle="bold"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="20dp"
+                            android:layout_marginTop="20dp"
+                            android:gravity="center"
+                            android:orientation="horizontal">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginRight="32dp"
+                                android:layout_weight="1"
+                                android:gravity="right|center_vertical"
+                                android:orientation="horizontal">
+
+                                <ToggleButton
+                                    android:id="@+id/gender_m"
+                                    android:layout_width="17dp"
+                                    android:layout_height="17dp"
+                                    android:background="@drawable/n"
+                                    android:stateListAnimator="@null"
+                                    android:textOff=""
+                                    android:textOn="" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="4dp"
+                                    android:text="남"
+                                    android:textColor="#131215"
+                                    android:textSize="13dp"
+                                    android:textStyle="bold"
+                                    app:fontName="custom4" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="32dp"
+                                android:layout_weight="1"
+                                android:gravity="center_vertical"
+                                android:orientation="horizontal">
+
+                                <ToggleButton
+                                    android:id="@+id/gender_f"
+                                    android:layout_width="17dp"
+                                    android:layout_height="17dp"
+                                    android:background="@drawable/n"
+                                    android:stateListAnimator="@null"
+                                    android:textOff=""
+                                    android:textOn="" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="4dp"
+                                    android:text="여"
+                                    android:textColor="#131215"
+                                    android:textSize="13dp"
+                                    android:textStyle="bold"
+                                    app:fontName="custom4" />
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="40dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="323dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="생년월일"
+                                android:textColor="#131215"
+                                android:textSize="12dp"
+                                android:textStyle="bold"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="7dp"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="center_horizontal"
+                            android:orientation="horizontal">
+
+                            <EditText
+                                android:id="@+id/birth"
+                                android:layout_width="323dp"
+                                android:layout_height="41dp"
+                                android:layout_gravity="center_horizontal"
+                                android:background="@drawable/border_non"
+                                android:hint="ID나 PW찾기 이외에는 활용하지 않습니다(19000101)"
+                                android:inputType="number"
+                                android:paddingLeft="11dp"
+                                android:textColor="#3d3a42"
+                                android:textColorHint="#bbbbbb"
+                                android:textSize="13dp"
+                                app:fontName="custom4" />
+
+
+                        </LinearLayout>
+
+
+                    </LinearLayout>
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="17dp"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="323dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_gravity="center_horizontal"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<TextView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="이메일"-->
+                    <!--android:textColor="#131215"-->
+                    <!--android:textSize="12dp"-->
+                    <!--android:textStyle="bold"-->
+                    <!--app:font="custom4" />-->
+
+
+                    <!--</LinearLayout>-->
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="7dp"-->
+                    <!--android:focusable="true"-->
+                    <!--android:focusableInTouchMode="true"-->
+                    <!--android:gravity="center_horizontal"-->
+                    <!--android:orientation="horizontal">-->
+
+                    <!--<EditText-->
+                    <!--android:id="@+id/email"-->
+                    <!--android:layout_width="323dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:layout_gravity="center_horizontal"-->
+                    <!--android:background="@drawable/border_non"-->
+                    <!--android:hint="ID나 PW찾기 시 필요한 정보입니다."-->
+                    <!--android:inputType="textEmailAddress"-->
+                    <!--android:paddingLeft="11dp"-->
+                    <!--android:textColor="#3d3a42"-->
+                    <!--android:textColorHint="#bbbbbb"-->
+                    <!--android:textSize="13dp"-->
+                    <!--app:font="custom4" />-->
+
+
+                    <!--</LinearLayout>-->
+
+
+                    <!--</LinearLayout>-->
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="17dp"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="323dp"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_gravity="center_horizontal"-->
+                    <!--android:orientation="vertical">-->
+
+                    <!--<TextView-->
+                    <!--android:id="@+id/textView"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="휴대폰 번호"-->
+                    <!--android:textColor="#131215"-->
+                    <!--android:textSize="12dp"-->
+                    <!--android:textStyle="bold"-->
+                    <!--app:font="custom4" />-->
+
+
+                    <!--</LinearLayout>-->
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="7dp"-->
+                    <!--android:focusable="true"-->
+                    <!--android:focusableInTouchMode="true"-->
+                    <!--android:gravity="center_horizontal"-->
+                    <!--android:orientation="horizontal">-->
+
+                    <!--<EditText-->
+                    <!--android:id="@+id/number"-->
+                    <!--android:layout_width="249dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:layout_gravity="center_horizontal"-->
+                    <!--android:background="@drawable/border_join"-->
+                    <!--android:hint="핸드폰 번호를 입력해주세요( - 없이)"-->
+                    <!--android:inputType="number"-->
+                    <!--android:paddingLeft="11dp"-->
+                    <!--android:textColor="#3d3a42"-->
+                    <!--android:textColorHint="#bbbbbb"-->
+                    <!--android:textSize="13dp"-->
+                    <!--app:font="custom4" />-->
+
+                    <!--<Button-->
+                    <!--android:id="@+id/number_btn"-->
+                    <!--android:layout_width="74dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:background="@drawable/border_join_right"-->
+                    <!--android:stateListAnimator="@null"-->
+                    <!--android:text="인증번호"-->
+                    <!--android:textColor="#bbbbbb"-->
+                    <!--android:textSize="12dp"-->
+                    <!--app:font="custom4" />-->
+
+                    <!--<Button-->
+                    <!--android:id="@+id/number_btn_ok"-->
+                    <!--android:layout_width="74dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:background="#ffb445"-->
+                    <!--android:stateListAnimator="@null"-->
+                    <!--android:text="인증번호"-->
+                    <!--android:textColor="#ffffff"-->
+                    <!--android:textSize="12dp"-->
+                    <!--android:visibility="gone"-->
+                    <!--app:font="custom4" />-->
+
+                    <!--</LinearLayout>-->
+
+                    <!--<LinearLayout-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="7dp"-->
+                    <!--android:focusable="true"-->
+                    <!--android:focusableInTouchMode="true"-->
+                    <!--android:gravity="center_horizontal"-->
+                    <!--android:orientation="horizontal">-->
+
+                    <!--<EditText-->
+                    <!--android:id="@+id/auth"-->
+                    <!--android:layout_width="249dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:layout_gravity="center_horizontal"-->
+                    <!--android:background="@drawable/border_join"-->
+                    <!--android:hint="인증번호 입력란"-->
+                    <!--android:inputType="number"-->
+                    <!--android:paddingLeft="11dp"-->
+                    <!--android:textColor="#3d3a42"-->
+                    <!--android:textColorHint="#bbbbbb"-->
+                    <!--android:textSize="13dp"-->
+                    <!--app:font="custom4" />-->
+
+                    <!--<Button-->
+                    <!--android:id="@+id/auth_btn"-->
+                    <!--android:layout_width="74dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:background="@drawable/border_join_right"-->
+                    <!--android:stateListAnimator="@null"-->
+                    <!--android:text="인증번호"-->
+                    <!--android:textColor="#bbbbbb"-->
+                    <!--android:textSize="12dp"-->
+                    <!--app:font="custom4" />-->
+
+                    <!--<Button-->
+                    <!--android:id="@+id/auth_btn_ok"-->
+                    <!--android:layout_width="74dp"-->
+                    <!--android:layout_height="41dp"-->
+                    <!--android:background="#ffb445"-->
+                    <!--android:stateListAnimator="@null"-->
+                    <!--android:text="인증번호"-->
+                    <!--android:textColor="#ffffff"-->
+                    <!--android:textSize="12dp"-->
+                    <!--android:visibility="gone"-->
+                    <!--app:font="custom4" />-->
+
+                    <!--</LinearLayout>-->
+
+
+                    <!--</LinearLayout>-->
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="36dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/swear"
+                                android:layout_width="323dp"
+                                android:layout_height="41dp"
+                                android:background="@drawable/join"
+                                android:gravity="center"
+                                android:text="서약 내용 보기"
+                                android:textColor="#131215"
+                                android:textSize="12dp"
+                                app:fontName="custom4" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="18dp"
+                                android:orientation="horizontal">
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginLeft="58dp"
+                                    android:layout_weight="1"
+                                    android:gravity="left"
+                                    android:orientation="horizontal">
+
+                                    <ToggleButton
+                                        android:id="@+id/check"
+                                        android:layout_width="14dp"
+                                        android:layout_height="14dp"
+                                        android:background="@drawable/m"
+                                        android:stateListAnimator="@null"
+                                        android:textOff=""
+                                        android:textOn="" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="7dp"
+                                        android:text="약속합니다."
+                                        android:textColor="#131215"
+                                        android:textSize="13dp"
+                                        app:fontName="custom4" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginRight="58dp"
+                                    android:layout_weight="1"
+                                    android:gravity="right"
+                                    android:orientation="horizontal">
+
+                                    <ToggleButton
+                                        android:id="@+id/check2"
+                                        android:layout_width="14dp"
+                                        android:layout_height="14dp"
+                                        android:background="@drawable/m"
+                                        android:stateListAnimator="@null"
+                                        android:textOff=""
+                                        android:textOn="" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="7dp"
+                                        android:text="개인정보동의"
+                                        android:textColor="#131215"
+                                        android:textSize="13dp"
+                                        app:fontName="custom4" />
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="18dp"
+                    android:gravity="bottom">
+
+                    <Button
+                        android:id="@+id/next_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="47dp"
+                        android:background="#fbac35"
+                        android:stateListAnimator="@null"
+                        android:text="가입 완료"
+                        android:textColor="#ffffff"
+                        android:textSize="15dp"
+                        app:fontName="custom2" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
