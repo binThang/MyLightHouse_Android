@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha3.aar/34f88f693f8df63bc5fa7ef633525c6a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52a7a9366ae3e86f3dc962b398e0ffdd00147a67">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/message-template-1.4.1.aar/d6ffbaa8b6ff301d951480f55a5ae741/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="672c22dc615e872661793225ce53650170d93cdf">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/da8bf2418071fe7b4c0053f9e694d417/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/3d2230db7cce31404e7dda86643a7be2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b81123d49492aa92bb9aceece799f960184ffd86">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.1.0.aar/b78456060eeb891fd9941f9b3ce9be14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b5a871450ec57f19c1b8e9e14899849d6d5bdd2">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/700520796ce853b94bc292f140a847a0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="adb8a75987034c4189515222e4ce7e62ef3d2679">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/41925db2b4f60df148b934f833bcb0d1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="83c20c43f6dd99bc8a2f650338e300b51b0322f1">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/40741c491e74e59d579211689bc81a4d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f01d56e9ac0093c28f83b6c84d2d8cf31a4c227a">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/3e327e6efc013365350244a77de4fcf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9c0cef4ce809a6ee34010d54f6138d1e8d235d4">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/d25e2404a850d179d57439350c33ce4c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="30a491b00a400e48f1c5fc29a544c6ec24a200a2">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/library-1.3.1.aar/5faa1dfd1f1a1788fb5c53b7c4ab08f7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cbce3a53b00ffcb5cfaf872299dcce45/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/libs/jsoup-1.7.3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0633aaecf0688ada2a1e4ec496b864f4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/d2e438798c196fc721893e37e7b7b986/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="105953d608941a7353c7ba8bb87ffd6d15c72373">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/69e3fa98536746cbe4b8e040f76cefa2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fed88a0b8c6cdbc858f18a65574ea5a3f8e91f43">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/741b04a814113c67082d6db4e3a828c9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/821a30bcaf941e0dc864f7a4231bc44b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3421928d94dccb4ea5f5884ef994a449b1f59b94">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/kakaolink-1.4.1.aar/9ab162a4798e3a8bee16d670c0e4c569/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6127ae1eb8caae5a40afc0324ce8228ff78e348">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.googlecode.android-query/android-query/0.25.9/fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f/android-query-0.25.9.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fff82e4e1e56b60d6eb1d5487dbd3d3b526b635f">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/s2-lite-1.4.1.aar/b5ca6046f2de3288a41f783b26be6363/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1f08eb8e9085b2042c9debcca8865b0d5ba44194">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/typekit-1.0.1.aar/9ca3ffdef5f53cc19e039108b943b26a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9408a959e65e1740548fb112a5145413c0f2daef">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-alpha3.aar/89f8720190a51350eabd5f3ef28f2e6c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="672ef9f35ed1907ab7d0933a3e1601fc780e86d7">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/b42b393e613f4c234f646561aaba6491/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1dc0edf859b7207ab1d84505a91550ad764fba08">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/914be8437d6f2b04821ae68e926a5b2b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/f936f95e5889eb49adf25e669c7a00e1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f13389655eb804a474ffa38b106b6ebe70fbd72a">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/usermgmt-1.4.1.aar/8a9a003668f0b842fb29016191eea90a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6b36595f40347d99f1bec69d6adac6f178cfb28">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/network-1.4.1.aar/1c6d6352660352167b14053dcee4d2a9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="83bdc8d7ba952e835eb5e1a37c5ef2e465a9d948">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/a4d7f738769ad6b1769d819d69a50dbc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/2f71102de784f64cde3f938fa8d962ba/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b323f6b6f5f5b5ec38f8076a8e773a24b556803f">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/0cade07a95f4fb2641559a75c1cd3aa3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/581dbaab1abbf4230010dd0b52b52460/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.0.0/223fbb31236b0714328c415c1475fc8f55a4416e/baseLibrary-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="223fbb31236b0714328c415c1475fc8f55a4416e">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/design-28.0.0-alpha3.aar/83d415ed3d6c75f0c9a89dbe7e87cf70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dae3ba588e3041524cf15853ef41489546232f56">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0-alpha3/7f23bd602124f31bda99edc5ee8a3bee209dae67/support-annotations-28.0.0-alpha3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7f23bd602124f31bda99edc5ee8a3bee209dae67">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/638784fb83b50ef78561a16be3bf2318/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6dd3aad3f1c8ed7d03f1756788751481d5b58829">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/15dc3227a38d2ccdf74a6687b6b7408c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b537d18c3d70135922eed311c8e6ae80d04db2ae">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4a61da89ad03ce3394992b304f8b7a31/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/57398358ffbbeeef7ae7b1a47150f0dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7298c47c29053c12eae9038bcd5e1ca1a4edd2a8">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/310a0331d50994866c74e977f5470718/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="62f1ae285dbc36e987d202665e0b115cb89ad766">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0-alpha3/a037a9517c0b0bdaae96b21128534af4ba706c0c/collections-28.0.0-alpha3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a037a9517c0b0bdaae96b21128534af4ba706c0c">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/adapters-1.3.1.aar/1954220504543951c7d700d022e176f9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/349ed922ef0f6cde45fe3e3fcbc26c63/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28a853e2897305b41fe2bc82652a697f057cf7d8">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/90f1f9d190c5a006fb1b508e9f56c10e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad84528bb52eaa5f248cd754253b4799fea5e20">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/libs/3rdparty_login_library_android_4.1.4.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="194d914e51c00c0a5319365eea98050edf6625a9">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e4aa134dffd397b724f7a936a36e2b87/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/3fb1a4c38e7efb2aa3fa8038fff11be2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/dbaf93ba64bccf8d3c014c008e12f6b9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="440c2908c8171527c59dab969313cd5d99384689">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/8f9a4b150fefbabf1d24ab6e818ba0e7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="537e2fb8aa75e9574f18123053a2c6b47cd241c3">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/util-1.4.1.aar/cdc071e74382111537672e2ee31901c8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc1420ff6e3880c3f764f62328142078ae49005e">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.2.0.aar/f38ffdfd57f908c7313632973957eacb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="875bf2a968184594896f153b02935021c6a3ceee">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/3f2477cfe5b18c2f89b5f4c1653ed71a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="471a0e96e0fc638d9eae68aa906b0052cbe14fac">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/auth-1.4.1.aar/58ef0771ab577da219f91ccca83acee1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8c5a1e1b9da516e55a29d7a678ec5a08e8b9a92">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/0c58cb140c7f62c491794aaf13e408e2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/tedpermission-1.0.2.aar/894c5664c14b6cf619a8a4732572f44c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="703c95818950344722c5d545e0763f4ae92625ce">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-alpha3.aar/9a8cb904508d35358f733b5226601df2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d1a3bfe802fe7eef679773b96d44bdbcb00ff571">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-alpha3.aar/802ee3950f26cfe461464084b5eacaf0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da542ad57c90ec4568a10c34b4e913fb80566fdc">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baeyongbin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/36c50009b7ecea7d6fb086690ed8e6a7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/baeyongbin/Documents/Project_Lighthouse/내등에기대_AOS/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+
+</items>
